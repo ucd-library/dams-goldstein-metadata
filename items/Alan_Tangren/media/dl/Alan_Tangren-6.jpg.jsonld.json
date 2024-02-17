@@ -10,12 +10,6 @@
   },
   "@id": "",
   "@type": [
-    "schema:ImageObject",
-    "schema:CreativeWork"
-    "schema:CreativeWork",
-    "schema:MediaObject",
-    "schema:ImageObject",
-    "schema:CreativeWork"
     "schema:MediaObject",
     "schema:ImageObject",
     "schema:CreativeWork"
