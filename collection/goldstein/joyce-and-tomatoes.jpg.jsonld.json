@@ -12,6 +12,6 @@
   "ebucore:filename": "joyce-and-tomatoes.jpg",
   "ebucore:hasMimeType": "image/jpeg",
   "@type": [
-    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+    "schema:CreativeWork"
   ]
 }
