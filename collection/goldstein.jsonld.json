@@ -32,7 +32,10 @@
     "@value": "2023"
   },
   "schema:description": "This digital collection includes transcriptions of interviews conducted by Joyce Goldstein for her 2013 book, *Inside the California Food Revolution*, authored with Dore Brown. The book explores the development of California cuisine from the 1970s to the 2000s. Goldstein is a chef, author, and consultant to the restaurant and food industries. She was chef/owner of Square One restaurant in San Francisco, California from 1984-1996 and worked for three years as executive chef at Cafe at Chez Panisse in Berkeley, California. She is the author of twenty-eight cookbooks, including James Beard Award winners *Festive Occasions* (1993) with Chuck Williams, and *Back to Square One* (1992), and one of the first comprehensive cookbooks on Mediterranean cuisine, *The Mediterranean Kitchen* (1989). \n\n A complete inventory of the collection is available in the collection’s finding aid at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8ns11qj).",
-  "schema:identifier": "D-648",
+  "schema:identifier": [
+    "D-648",
+    "ark:/87293/d3x921r6v"
+  ],
   "schema:image": {
     "@id": "@base:/joyce-and-tomatoes.jpg"
   },
