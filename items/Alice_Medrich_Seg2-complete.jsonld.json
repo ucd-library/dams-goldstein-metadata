@@ -26,7 +26,7 @@
     "ark:/87293/d37s7hx6d"
   ],
   "schema:image": {
-    "@id": "@base:/media/dl/Alice_Medrich_Seg2-complete-0.jpg"
+    "@id": "@base:/media/images/Alice_Medrich_Seg2-complete-0.jpg"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8ns11qj/"

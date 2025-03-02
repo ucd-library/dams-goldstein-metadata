@@ -26,7 +26,7 @@
     "D-648"
   ],
   "schema:image": {
-    "@id": "@base:/media/dl/Tony_Gulisano-0.jpg"
+    "@id": "@base:/media/images/Tony_Gulisano-0.jpg"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8ns11qj/"

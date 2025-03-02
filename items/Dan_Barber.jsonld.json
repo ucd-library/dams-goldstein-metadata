@@ -26,7 +26,7 @@
     "ark:/87293/d32z12v04"
   ],
   "schema:image": {
-    "@id": "@base:/media/dl/Dan_Barber-0.jpg"
+    "@id": "@base:/media/images/Dan_Barber-0.jpg"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8ns11qj/"

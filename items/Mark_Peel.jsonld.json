@@ -26,7 +26,7 @@
     "ark:/87293/d3r49gf15"
   ],
   "schema:image": {
-    "@id": "@base:/media/dl/Mark_Peel-0.jpg"
+    "@id": "@base:/media/images/Mark_Peel-0.jpg"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8ns11qj/"

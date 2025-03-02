@@ -26,7 +26,7 @@
     "ark:/87293/d32b8vh2k"
   ],
   "schema:image": {
-    "@id": "@base:/media/dl/Ruth_Reichl-0.jpg"
+    "@id": "@base:/media/images/Ruth_Reichl-0.jpg"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8ns11qj/"
