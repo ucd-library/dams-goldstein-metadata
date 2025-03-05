@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Deborah_Madison.pdf",
   "ebucore:hasMimeType": "application/pdf"

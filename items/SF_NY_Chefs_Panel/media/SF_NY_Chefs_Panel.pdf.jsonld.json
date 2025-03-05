@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "SF_NY_Chefs_Panel.pdf",
   "ebucore:hasMimeType": "application/pdf"

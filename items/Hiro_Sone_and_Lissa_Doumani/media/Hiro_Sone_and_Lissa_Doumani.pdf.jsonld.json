@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Hiro_Sone_and_Lissa_Doumani.pdf",
   "ebucore:hasMimeType": "application/pdf"

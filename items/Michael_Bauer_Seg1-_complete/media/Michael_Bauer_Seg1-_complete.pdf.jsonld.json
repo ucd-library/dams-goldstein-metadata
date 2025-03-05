@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Michael_Bauer_Seg1-_complete.pdf",
   "ebucore:hasMimeType": "application/pdf"

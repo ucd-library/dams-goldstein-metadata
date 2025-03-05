@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Amelia_Saltsman.pdf",
   "ebucore:hasMimeType": "application/pdf"

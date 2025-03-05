@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Cass_Calder_Smith.pdf",
   "ebucore:hasMimeType": "application/pdf"

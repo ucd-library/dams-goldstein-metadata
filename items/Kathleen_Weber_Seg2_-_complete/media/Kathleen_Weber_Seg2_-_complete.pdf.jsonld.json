@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Kathleen_Weber_Seg2_-_complete.pdf",
   "ebucore:hasMimeType": "application/pdf"

@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Paul_Johnson_Seg2-complete.pdf",
   "ebucore:hasMimeType": "application/pdf"

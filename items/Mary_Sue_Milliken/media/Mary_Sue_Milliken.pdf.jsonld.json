@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Mary_Sue_Milliken.pdf",
   "ebucore:hasMimeType": "application/pdf"

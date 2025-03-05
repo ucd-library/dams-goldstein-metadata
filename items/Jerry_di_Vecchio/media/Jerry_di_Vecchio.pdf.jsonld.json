@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Jerry_di_Vecchio.pdf",
   "ebucore:hasMimeType": "application/pdf"

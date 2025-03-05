@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../dl"
+    "@id": "@base:../images"
   },
   "ebucore:filename": "Nancy_Silverton_on_Bread.pdf",
   "ebucore:hasMimeType": "application/pdf"
