@@ -11,6 +11,7 @@
   "@id": "",
   "ebucore:filename": "Michael_Tuohy__written-6.jpg",
   "ebucore:hasMimeType": "image/jpeg",
+  "schema:position": 6,
   "@type": [
     "schema:MediaObject",
     "schema:ImageObject",
