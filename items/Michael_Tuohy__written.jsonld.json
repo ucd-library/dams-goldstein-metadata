@@ -15,7 +15,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Michael_Tuohy__written.pdf"
+    "@id": "@base:/media/Michael_Tuohy_written.pdf"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
