@@ -15,7 +15,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/Andrew_Freeman__Seg1_-complete.pdf"
+    "@id": "@base:/media/Andrew_Freeman_Seg1_-complete.pdf"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
