@@ -15,5 +15,6 @@
     "schema:MediaObject",
     "schema:ImageObject",
     "schema:CreativeWork"
-  ]
+  ],
+  "schema:position": 41
 }
