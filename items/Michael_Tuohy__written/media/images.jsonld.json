@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../Michael_Tuohy__written.pdf"
+    "@id": "@base:../Michael_Tuohy_written.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {
